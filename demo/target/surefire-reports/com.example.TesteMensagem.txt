@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.TesteMensagem
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in com.example.TesteMensagem
+initializationError(com.example.TesteMensagem)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: Method verificarComportamentoDaClasse() should be public
+
